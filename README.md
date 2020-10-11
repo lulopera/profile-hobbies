@@ -1,23 +1,26 @@
 # Project Name
-Maria Lopera background and hobbies
+Maria Lopera Profile and Hobbies
 
 # Project Description
 
-Maria Irene Team is a project created by two classmates from course Mulitmedia Authoring 1. The main purpose of this project is to create a page app that includes a description of Irene and Maria backgrounds, their main hobbies and interests.
+Maria Lopera Profile and Hobbies is a project created by a student from course Mulitmedia Authoring 1. The main purpose of this project is to create a page app that includes a description of Maria's backgrounds, her major hobbies and interests.
 
 # Installation
 
-Create a repository in GitHub.
-
-* Build a Readme File.
-
-* Send invitation to collaborator. 
-
-* The creator of the main file of repository and the collaborator will build a branch that will include the content of the page app. 
-* Once the two branches are created, a PR will be requested to a third party and then a merge will be generated.
+* Create a repository with a README file in GitHub.
+* Copy URL.
+* Clone repository in terminal.
+* Create a branch.
+* Update README file.
+* Create a HomePage file.
+* Update new HomePage file.
+* Create a new branch with Maria's profile with maria.html file.
+* Update new maria.html file.
+* Request a PR.
+* Merge
 
 # MIT License
-Copyright 2020 Luz Maria Lopera/Irene Vinu
+Copyright 2020 Luz Maria Lopera
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
