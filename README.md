@@ -1,26 +1,28 @@
 # Project Name
-Maria Lopera Profile and Hobbies
+Maria & Irene Team: Profile and Hobbies
 
 # Project Description
 
-Maria Lopera Profile and Hobbies is a project created by a student from course Mulitmedia Authoring 1. The main purpose of this project is to create a page app that includes a description of Maria's backgrounds, her major hobbies and interests.
+Maria &  Irene Team: Profile and Hobbies is a project created by a two classmates from Mulitmedia Authoring 1 program. The main purpose of this project is to build a page app that includes a description of Maria and Irene's backgrounds, their major hobbies and interests.
 
 # Installation
 
 * Create a repository with a README file in GitHub.
 * Copy URL.
 * Clone repository in terminal.
-* Create a branch.
 * Update README file.
-* Create a HomePage file.
-* Update new HomePage file.
-* Create a new branch with Maria's profile with maria.html file.
-* Update new maria.html file.
-* Request a PR.
+* Built a Home Page using text editor.
+* Create a branch: Feature Home Page.
+* Merge.
+* Update README file.
+* Built  new page  maria.html file.
+* Create a new branch with maria.html file and merge.
+* Invite Irene2022 to collaborate
+* Create a Pull Request
 * Merge
 
 # MIT License
-Copyright 2020 Luz Maria Lopera
+Copyright 2020 Luz Maria Lopera/ Irene Vinu
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
